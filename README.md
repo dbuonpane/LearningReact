@@ -1,5 +1,7 @@
-Title: Interactive Tic-Tac-Toe Game 
-Author: Danielle Buonpane, AAS, BS (based on the tutorial provided by React development) 
+# Interactive Tic-Tac-Toe Game 
+
+Danielle Buonpane, AAS, BS (based on the tutorial provided by React development) 
+
 Version: 1.0 (05/31/2025)
 
 Description: in order to expand my cadre of software tool skills I completed the tutorial for development of a React application. In this case it is a tic-tac-toe game. The code was developed using React, HTML, CSS and JavaScript. The application supports the useState library of react. It allows end users to complete a tic-tac-toe game and along the way the system tracks the players history to allow them to jump back to previously plays to change the configuration. The game also allows the user to start the game over (can also be accomplished by refreshing the page). When a winner is identified then the player will be notified by notification above the game board. It also identifies the "next player" which would be the current user making their play. 
