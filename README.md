@@ -1,5 +1,5 @@
 # Learning React Repo
-Author: Danielle Buonpane 
+Author: Danielle Buonpane <br> 
 Contact info: (email) dbuonpane@radford.edu
 
 ## Why set up Repo? 
